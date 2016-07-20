@@ -1,0 +1,36 @@
+h1 {
+  color: #EEE8AA ;
+  border:10px solid black ;
+  background-color: #00BFFF ;
+  text-align: center;
+font-family: 'Roboto', sans-serif;
+ }
+
+body {
+   background-color: #CCCCCC;
+background-size: cover;
+font-family: "Cookie", cursive;
+  }
+
+
+
+ div{
+  width:780px;
+  margin:auto;
+  border:5px solid #174460;
+  border-radius:10px;
+  box-shadou:2px 4px 3px black;
+  background-color:#ffffff;
+  padding:40px;
+ }
+
+ h2 {
+   color: #1E90FF ;
+   border:10px solid black;
+   background-color: white ;
+   text-align: center;
+  }
+
+h3, h4 {
+  text-align: center;
+}
